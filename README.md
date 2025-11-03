@@ -31,8 +31,4 @@ This project applies **Hierarchical Clustering (Ward’s method)** on the *Mall 
 - Matplotlib, Seaborn, Plotly  
 - SciPy, scikit-learn  
 
-## 🚀 How to Run
-1. Clone the repository  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
+
